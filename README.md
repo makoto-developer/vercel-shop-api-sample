@@ -1,4 +1,9 @@
-# 
+# Serverless Function
+
+## 構成
+
+- Next.js
+- TypeScript
 
 ## 起動方法
 
@@ -12,3 +17,8 @@ yarn dev
 ```shell
 yarn create next-app 
 ```
+
+## TODO
+- Vercel KVに登録
+- MySQLと繋げる
+
