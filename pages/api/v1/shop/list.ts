@@ -22,6 +22,10 @@ export default function handler(
             id: "4",
             name: "沖縄営業所",
             openingHours: "9:30-17:00",
+        }, {
+            id: "5",
+            name: "北海道営業所",
+            openingHours: "10:00-16:00",
         },
     ]
     return res
