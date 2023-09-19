@@ -1,7 +1,15 @@
 {
   "name": "shop",
   "version": "0.1.0",
-  "private": true,
+  "description": "Shop API: on Vercel",
+  "author": "@makoto-developer",
+  "license": "None",
+  "private": false,
+  "homepage": "https://vercel-shop-makotodeveloper.vercel.app/",
+  "repository": "https://github.com/makoto-developer/vercel-shop-api-sample",
+  "bugs": {
+    "url": "https://github.com/makoto-developer/vercel-shop-api-sample/issues"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -9,15 +17,17 @@
     "lint": "next lint",
     "lint-fix": "next lint --fix"
   },
-  "dependencies": {
-    "@types/node": "20.4.2",
-    "@types/react": "18.2.15",
+  "devDependencies": {
+    "@types/node": "20.6.2",
+    "@types/react": "18.2.22",
     "@types/react-dom": "18.2.7",
-    "eslint": "8.45.0",
-    "eslint-config-next": "13.4.10",
-    "next": "13.4.10",
+    "eslint": "8.49.0",
+    "eslint-config-next": "13.4.19",
+    "typescript": "5.2.2"
+  },
+  "dependencies": {
+    "next": "13.4.19",
     "react": "18.2.0",
-    "react-dom": "18.2.0",
-    "typescript": "5.1.6"
+    "react-dom": "18.2.0"
   }
 }
