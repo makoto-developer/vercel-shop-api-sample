@@ -12,7 +12,7 @@
   - `yarn global add vercel@latest`などで最新にしておく
 - Vercel Account
 
-## Starting
+## 🚀Installation
 
 ```bash
 yarn install
@@ -23,6 +23,7 @@ yarn dev
 
 開発環境
 ```shell
+vercel build
 vercel
 ```
 
