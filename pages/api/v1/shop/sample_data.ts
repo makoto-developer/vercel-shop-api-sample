@@ -19,5 +19,9 @@ export const shop_list = [
         id: "5",
         name: "青森営業所",
         openingHours: "10:00-16:00",
+    }, {
+        id: "6",
+        name: "北海道営業所",
+        openingHours: "11:00-15:00",
     },
 ]
