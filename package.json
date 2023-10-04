@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "Shop API on Vercel",
   "author": "@makoto-developer",
-  "license": "None",
+  "license": "UNLICENSED",
   "private": false,
   "homepage": "https://vercel-shop-makotodeveloper.vercel.app/",
   "repository": "https://github.com/makoto-developer/vercel-shop-api-sample",
