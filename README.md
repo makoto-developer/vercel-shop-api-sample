@@ -8,15 +8,14 @@
 ## Require
 - asdf
 - Docker
-- Yarn
-  - `yarn global add vercel@latest`などで最新にしておく
+- Node.js v20.9.0
+- pnpm latest
 - Vercel Account
 
 ## 🚀Installation
 
 ```bash
-yarn install
-yarn dev
+pnpm install
 ```
 
 ## deploy
