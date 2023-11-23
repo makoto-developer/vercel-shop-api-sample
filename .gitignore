@@ -2,6 +2,7 @@
 
 # editor
 .idea
+*.swp
 
 # dependencies
 /node_modules
